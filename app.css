@@ -1,0 +1,11 @@
+@import "tailwindcss" source(none);
+@source "./public/*.{html,js}";
+@plugin "daisyui";
+
+.station-hover {
+    @apply absolute w-8 h-8 rounded-full bg-info/90 pointer-events-auto cursor-pointer transform transition-transform duration-200 hover:scale-125 hover:bg-primary hover:shadow-lg opacity-100;
+}
+
+.station-hover:hover {
+    @apply animate-pulse;
+}
