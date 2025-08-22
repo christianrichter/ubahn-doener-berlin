@@ -22,7 +22,10 @@
       "WebFetch(domain:www.alamy.com)",
       "WebFetch(domain:www.architektur-bildarchiv.de)",
       "Bash(mv:*)",
-      "Bash(npm run tidy:*)"
+      "Bash(npm run tidy:*)",
+      "Bash(npx svgo:*)",
+      "Bash(npm run svg:opt:*)",
+      "Bash(npm run svg:brotli:*)"
     ],
     "deny": [],
     "ask": []
