@@ -1,43 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-full">
 <head>
     <meta charset="UTF-8">
     <title>Berliner U-Bahn Döner Guide</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link href="output.css" rel="stylesheet">
 </head>
-<body>
+<body class="h-full flex flex-col">
 
-<!-- Tooltip container -->
-<div id="tooltip" style="position: absolute; background: #333; color: white; padding: 24px 32px; border-radius: 16px; font-size: 16px; display: none; z-index: 1000; pointer-events: none; min-width: 360px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);"></div>
-
-<div class="flex flex-col text-center">
-    <div class="flex-auto pt-14">
+<!-- Main content area that grows to fill available space -->
+<main class="flex-1 text-center flex flex-col">
+    <div class="pt-14">
         <h1 class="text-5xl font-bold">Hier gibt's lecker Döner zum guten Preis.</h1>
     </div>
 
-    <div class="flex-auto pt-14 overflow-auto" style="height: calc(100vh - 200px);">
-
-            <div id="svg-container" style="width: 100%; height: 100%; overflow: hidden; position: relative; cursor: grab;">
-                <div id="svg-wrapper" style="width: 100%; height: 100%; transform-origin: center;">
-                    <!-- Placeholder for inline SVG - will be loaded dynamically -->
-                    <div id="svg-placeholder" style="width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: #f0f0f0;">
-                        Loading map...
-                    </div>
+    <div class="flex-1 pt-14">
+        <div id="svg-container" class="w-full h-full overflow-hidden relative cursor-grab">
+            <div id="svg-wrapper" class="w-full h-full" style="transform-origin: center;">
+                <!-- Placeholder for inline SVG - will be loaded dynamically -->
+                <div id="svg-placeholder" class="w-full h-full flex items-center justify-center bg-gray-100">
+                    Loading map...
                 </div>
             </div>
-            
-
+        </div>
     </div>
+</main>
 
-
-</div>
-
-<footer class="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4">
+<footer class="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4 flex-shrink-0">
     <aside>
         <p>Copyright © 2025 - Made in Berlin</p>
     </aside>
 </footer>
+
+<!-- Tooltip container -->
+<div id="tooltip" style="position: absolute; background: #333; color: white; padding: 24px 32px; border-radius: 16px; font-size: 16px; display: none; z-index: 1000; pointer-events: none; min-width: 360px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);"></div>
 
 <!--<div class="hero bg-base-200 min-h-screen">-->
 <!--    <div class="hero-content text-center">-->

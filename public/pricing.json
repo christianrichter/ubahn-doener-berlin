@@ -1,4 +1,9 @@
 {
+  "u1_6": {
+    "customTooltip": "Döner für 10,00",
+    "customDescription": "aller bester döner",
+    "customImage": "images/doner1.jpg"
+  },
   "u1_5": {
     "customTooltip": "Döner für 7,00",
     "customDescription": "Lecker & günstig",
@@ -13,5 +18,15 @@
     "customTooltip": "Döner für 7,00",
     "customDescription": "Lecker & günstig",
     "customImage": "images/doner3.jpg"
+  },
+  "u1_7": {
+    "customTooltip": "Döner für 7,00",
+    "customDescription": "aller bester döner",
+    "customImage": "images/doner1.jpg"
+  },
+  "u1_9": {
+    "customTooltip": "Döner für 7,00",
+    "customDescription": "aller bester döner",
+    "customImage": "images/doner1.jpg"
   }
 }

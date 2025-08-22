@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.4815037"
-     inkscape:cx="1013.2116"
-     inkscape:cy="580.35268"
+     inkscape:cx="688.63922"
+     inkscape:cy="580.92714"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2088,7 +2088,8 @@
        cx="344.6875"
        cy="1032.9247"
        rx="0.8125"
-       ry="1.3125" />
+       ry="1.3125"
+       inkscape:label="u1_9" />
     <g
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="text4322-1-7-0">
@@ -2394,7 +2395,8 @@
        x="-1365.6603"
        y="5205.8428"
        ry="6"
-       rx="6" />
+       rx="6"
+       inkscape:label="u1_7" />
     <rect
        transform="rotate(-90)"
        rx="6"
@@ -2404,7 +2406,8 @@
        height="12"
        width="24"
        id="rect4491-7-7"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:label="u1_6" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.58929;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4266-3-7-1"
