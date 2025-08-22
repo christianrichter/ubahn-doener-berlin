@@ -1,16 +1,16 @@
 {
   "u1_5": {
-    "customTooltip": "Döner für 6,00",
+    "customTooltip": "Döner für 7,00",
     "customDescription": "Lecker & günstig",
     "customImage": "images/doner1.jpg"
   },
   "u1_3": {
-    "customTooltip": "Best Döner",
+    "customTooltip": "Döner für 7,50",
     "customDescription": "Authentisch & frisch",
     "customImage": "images/doner2.jpg"
   },
   "u1_1": {
-    "customTooltip": "Döner Kebab",
+    "customTooltip": "Döner für 7,00",
     "customDescription": "Lecker & günstig",
     "customImage": "images/doner3.jpg"
   }
