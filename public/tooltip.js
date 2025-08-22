@@ -29,9 +29,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 const element = svgElement.getElementById(elementId);
                 if (element) {
                     element.addEventListener('mouseenter', function() {
-                        const tooltipText = customTooltip || element.getAttribute('data-tooltip') || 'Döner';
-                        const description = customDescription || element.getAttribute('data-description') || 'Lecker & günstig';
-                        const imageUrl = customImage || element.getAttribute('data-image') || 'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=120&h=120&fit=crop&crop=center';
+                        const tooltipText = customTooltip;
+                        const description = customDescription;
+                        const imageUrl = customImage;
                         
                         tooltip.innerHTML = `<div style="display: flex; align-items: center; gap: 20px;">
                             <img src="${imageUrl}" alt="Döner" style="width: 100px; height: 100px; border-radius: 8px; object-fit: cover;">
