@@ -24,14 +24,14 @@ document.addEventListener('DOMContentLoaded', function() {
             wrapper.innerHTML = styledSvg;
             svgElement = wrapper.querySelector('svg');
             
-            // Set up tooltip functionality for both u1_1 and u1_3 stations
-            function setupTooltip(elementId) {
+            // Set up tooltip functionality for u1_1, u1_3, and u1_5 stations
+            function setupTooltip(elementId, customTooltip = null, customDescription = null, customImage = null) {
                 const element = svgElement.getElementById(elementId);
                 if (element) {
                     element.addEventListener('mouseenter', function() {
-                        const tooltipText = element.getAttribute('data-tooltip') || 'Döner';
-                        const description = element.getAttribute('data-description') || 'Lecker & günstig';
-                        const imageUrl = element.getAttribute('data-image') || 'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=120&h=120&fit=crop&crop=center';
+                        const tooltipText = customTooltip || element.getAttribute('data-tooltip') || 'Döner';
+                        const description = customDescription || element.getAttribute('data-description') || 'Lecker & günstig';
+                        const imageUrl = customImage || element.getAttribute('data-image') || 'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=120&h=120&fit=crop&crop=center';
                         
                         tooltip.innerHTML = `<div style="display: flex; align-items: center; gap: 20px;">
                             <img src="${imageUrl}" alt="Döner" style="width: 100px; height: 100px; border-radius: 8px; object-fit: cover;">
@@ -54,9 +54,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
             }
             
-            // Setup tooltips for both stations
+            // Setup tooltips for all stations
             setupTooltip('rect4936-2-1'); // u1_1 station
             setupTooltip('path4906-0-4'); // u1_3 station
+            setupTooltip('path4693-8-8', 'Döner für 6,00', 'Lecker & günstig', 'https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=120&h=120&fit=crop&crop=center'); // u1_5 station
         })
         .catch(error => {
             console.error('Error loading SVG:', error);
