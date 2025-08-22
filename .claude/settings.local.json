@@ -21,7 +21,8 @@
       "mcp__serena__list_dir",
       "WebFetch(domain:www.alamy.com)",
       "WebFetch(domain:www.architektur-bildarchiv.de)",
-      "Bash(mv:*)"
+      "Bash(mv:*)",
+      "Bash(npm run tidy:*)"
     ],
     "deny": [],
     "ask": []
