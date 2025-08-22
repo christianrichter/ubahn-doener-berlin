@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.4815037"
      inkscape:cx="688.63922"
-     inkscape:cy="580.92714"
+     inkscape:cy="696.10726"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1482,7 +1482,8 @@
        transform="matrix(0.77241381,0,0,0.77241381,4839.7365,650.56971)"
        cx="277.23215"
        cy="1031.7372"
-       r="7.7678571" />
+       r="7.7678571"
+       inkscape:label="u4_3" />
     <ellipse
        transform="matrix(3.6923078,-7.0710678e-8,7.0710678e-8,2.2857143,3781.1662,-963.24235)"
        id="path4268-6-4"

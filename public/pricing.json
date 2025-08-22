@@ -28,5 +28,10 @@
     "customTooltip": "Döner für 7,00",
     "customDescription": "aller bester döner",
     "customImage": "images/doner1.jpg"
+  },
+  "u4_3": {
+    "customTooltip": "Döner für 6,50",
+    "customDescription": "aller bester döner",
+    "customImage": "images/doner1.jpg"
   }
 }
