@@ -6,6 +6,7 @@ public/main.css
 
 # IDE/Editor files
 .serena/
+!.serena/project.yml
 
 # OS generated files
 .DS_Store
