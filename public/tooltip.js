@@ -55,8 +55,8 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             
             // Setup tooltips for all stations
-            setupTooltip('rect4936-2-1'); // u1_1 station
-            setupTooltip('path4906-0-4'); // u1_3 station
+            setupTooltip('rect4936-2-1', 'Döner Kebab', 'Lecker & günstig', 'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=120&h=120&fit=crop&crop=center'); // u1_1 station
+            setupTooltip('path4906-0-4', 'Best Döner', 'Authentisch & frisch', 'https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=120&h=120&fit=crop&crop=center'); // u1_3 station
             setupTooltip('path4693-8-8', 'Döner für 6,00', 'Lecker & günstig', 'https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=120&h=120&fit=crop&crop=center'); // u1_5 station
         })
         .catch(error => {
