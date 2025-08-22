@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__get-library-docs",
+      "WebSearch",
+      "Bash(grep:*)",
+      "Bash(inkscape:*)",
+      "Bash(identify:*)",
+      "Bash(npm run build:css:*)",
+      "Bash(pkill:*)",
+      "WebFetch(domain:localhost)",
+      "Bash(xq:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "mcp__serena__get_symbols_overview",
+      "Bash(sed:*)",
+      "mcp__serena__search_for_pattern",
+      "mcp__serena__find_symbol",
+      "mcp__serena__think_about_collected_information",
+      "mcp__serena__list_dir",
+      "WebFetch(domain:www.alamy.com)",
+      "WebFetch(domain:www.architektur-bildarchiv.de)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
