@@ -17,7 +17,7 @@
   "u1_1": {
     "customTooltip": "Döner für 7,00",
     "customDescription": "Lecker & günstig",
-    "customImage": "images/doner3.jpg"
+    "customImage": "images/warschauer_strasse_u1.jpg"
   },
   "u1_7": {
     "customTooltip": "Döner für 7,00",
@@ -32,6 +32,6 @@
   "u4_3": {
     "customTooltip": "Döner für 6,50",
     "customDescription": "aller bester döner",
-    "customImage": "images/doner1.jpg"
+    "customImage": "images/bayrischer_platz_u4.jpg"
   }
 }
