@@ -8,7 +8,7 @@ This is a simple static website called "Berliner U-Bahn Döner Guide" - a guide 
 
 ## Development Commands
 
-- **Build CSS**: `npm run build:css` - Compiles Tailwind CSS from app.css to public/output.css
+- **Build CSS**: `npm run build:css` - Compiles Tailwind CSS from app.css to public/main.css
 - **Install dependencies**: `npm install`
 
 ## Architecture
@@ -20,7 +20,7 @@ This is a simple static website called "Berliner U-Bahn Döner Guide" - a guide 
   - `public/index.html` - Main HTML file
   - `public/tooltip.js` - JavaScript for interactive features
   - `app.css` - Tailwind CSS input file with DaisyUI plugin
-  - `public/output.css` - Generated CSS output (not committed)
+  - `public/main.css` - Generated CSS output (not committed)
   - `public/pricing.json` - Pricing data for döner shops
   - `public/u1_elements.json` - U-Bahn line data
   - `public/network.svg` - U-Bahn network map
@@ -35,7 +35,7 @@ This is a simple static website called "Berliner U-Bahn Döner Guide" - a guide 
 - `public/pricing.json` - JSON data containing döner shop pricing information
 - `public/u1_elements.json` - JSON data for U-Bahn line elements and stations
 - `public/network.svg` - SVG map of the Berlin U-Bahn network
-- `public/output.css` - Generated CSS (created by build process)
+- `public/main.css` - Generated CSS (created by build process)
 
 ## Development Workflow
 

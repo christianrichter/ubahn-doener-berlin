@@ -20,7 +20,8 @@
       "mcp__serena__think_about_collected_information",
       "mcp__serena__list_dir",
       "WebFetch(domain:www.alamy.com)",
-      "WebFetch(domain:www.architektur-bildarchiv.de)"
+      "WebFetch(domain:www.architektur-bildarchiv.de)",
+      "Bash(mv:*)"
     ],
     "deny": [],
     "ask": []

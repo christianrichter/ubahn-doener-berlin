@@ -4,7 +4,7 @@
     "daisyui": "^5.0.50"
   },
   "scripts": {
-    "build:css": "npx @tailwindcss/cli -i app.css -o public/output.css"
+    "build:css": "npx @tailwindcss/cli -i app.css -o public/main.css"
   },
   "devDependencies": {
     "tailwindcss": "^4.1.12"

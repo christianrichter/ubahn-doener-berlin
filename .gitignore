@@ -2,7 +2,7 @@
 node_modules/
 
 # Build outputs
-public/output.css
+public/main.css
 
 # IDE/Editor files
 .serena/
