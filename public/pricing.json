@@ -1,0 +1,17 @@
+{
+  "u1_5": {
+    "customTooltip": "Döner für 6,00",
+    "customDescription": "Lecker & günstig",
+    "customImage": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=120&h=120&fit=crop&crop=center"
+  },
+  "u1_3": {
+    "customTooltip": "Best Döner",
+    "customDescription": "Authentisch & frisch",
+    "customImage": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=120&h=120&fit=crop&crop=center"
+  },
+  "u1_1": {
+    "customTooltip": "Döner Kebab",
+    "customDescription": "Lecker & günstig",
+    "customImage": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=120&h=120&fit=crop&crop=center"
+  }
+}
