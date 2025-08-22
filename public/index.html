@@ -6,31 +6,31 @@
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <link href="output.css" rel="stylesheet">
 </head>
-<body class="min-h-screen flex flex-col">
+<body class="h-screen overflow-hidden">
 
 <!-- Main content area that grows to fill available space -->
-<main class="flex-1 text-center flex flex-col">
-    <div class="pt-14">
+<div class="h-full flex flex-col">
+    <header class="flex-shrink-0 pt-14 text-center">
         <h1 class="text-5xl font-bold">Hier gibt's lecker Döner zum guten Preis.</h1>
-    </div>
+    </header>
 
-    <div class="flex-1 pt-14">
+    <main class="flex-1 pt-14 overflow-hidden">
         <div id="svg-container" class="w-full h-full overflow-hidden relative cursor-grab">
-            <div id="svg-wrapper" class="w-full h-full" style="transform-origin: center;">
+            <div id="svg-wrapper" class="w-full h-full flex items-center justify-center overflow-hidden" style="transform-origin: center;">
                 <!-- Placeholder for inline SVG - will be loaded dynamically -->
                 <div id="svg-placeholder" class="w-full h-full flex items-center justify-center bg-gray-100">
                     Loading map...
                 </div>
             </div>
         </div>
-    </div>
-</main>
+    </main>
 
-<footer class="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4 mt-auto">
+    <footer class="footer sm:footer-horizontal footer-center bg-base-300 text-base-content p-4 flex-shrink-0">
     <aside>
         <p>Copyright © 2025 - Made in Berlin</p>
     </aside>
 </footer>
+</div>
 
 <!-- Tooltip container -->
 <div id="tooltip" style="position: absolute; background: #333; color: white; padding: 24px 32px; border-radius: 16px; font-size: 16px; display: none; z-index: 1000; pointer-events: none; min-width: 360px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);"></div>

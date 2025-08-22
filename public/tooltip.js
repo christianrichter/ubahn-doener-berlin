@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
         .then(svgContent => {
             // Remove XML declaration and add styling
             const cleanSvg = svgContent.replace(/^<\?xml.*?\?>\s*/, '').replace(/^<!--.*?-->\s*/, '');
-            const styledSvg = cleanSvg.replace('<svg', '<svg style="width: 100%; height: 100%; display: block;"');
+            const styledSvg = cleanSvg.replace('<svg', '<svg style="display: block;"');
             
             // Insert the SVG
             wrapper.innerHTML = styledSvg;
