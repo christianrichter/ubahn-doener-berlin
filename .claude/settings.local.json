@@ -25,7 +25,8 @@
       "Bash(npm run tidy:*)",
       "Bash(npx svgo:*)",
       "Bash(npm run svg:opt:*)",
-      "Bash(npm run svg:brotli:*)"
+      "Bash(npm run svg:brotli:*)",
+      "WebFetch(domain:commons.wikimedia.org)"
     ],
     "deny": [],
     "ask": []

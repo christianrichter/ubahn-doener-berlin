@@ -8,31 +8,31 @@
   "u1_3": {
     "customTooltip": "Döner für 7,50€",
     "customDescription": "Authentisch & frisch",
-    "customImage": "images/doner2.jpg",
+    "customImage": "images/goerlitzer_bahnhof_viaduct_u1.jpg",
     "customStation": "Görlitzer Bahnhof"
   },
   "u1_5": {
     "customTooltip": "Döner für 7,00€",
     "customDescription": "Lecker & günstig",
-    "customImage": "images/doner1.jpg",
+    "customImage": "images/prinzenstrasse_u1.jpg",
     "customStation": "Prinzenstraße"
   },
   "u1_6": {
-    "customTooltip": "Döner für 9,00€",
+    "customTooltip": "Döner für 7,50€",
     "customDescription": "aller bester döner hier in berlin",
-    "customImage": "images/doner1.jpg",
+    "customImage": "images/hallesches_tor_u1.jpg",
     "customStation": "Hallesches Tor"
   },
   "u1_7": {
     "customTooltip": "Döner für 7,00€",
     "customDescription": "aller bester döner",
-    "customImage": "images/doner1.jpg",
+    "customImage": "images/moeckernbruecke_u1.jpg",
     "customStation": "Möckernbrücke"
   },
   "u1_9": {
     "customTooltip": "Döner für 7,00€",
     "customDescription": "aller bester döner",
-    "customImage": "images/doner1.jpg",
+    "customImage": "images/kurfuerstenstrasse_entrance_u1.jpg",
     "customStation": "Kurfürstenstraße"
   },
   "u4_3": {
