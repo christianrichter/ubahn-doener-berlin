@@ -31,7 +31,8 @@
       "Bash(do echo \"Resizing $img...\")",
       "Bash(magick:*)",
       "Bash(done)",
-      "Bash(convert:*)"
+      "Bash(convert:*)",
+      "WebFetch(domain:www.crichter.io)"
     ],
     "deny": [],
     "ask": []
