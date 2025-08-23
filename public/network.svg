@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4815037"
-     inkscape:cx="688.63922"
-     inkscape:cy="696.10726"
+     inkscape:zoom="1.754102"
+     inkscape:cx="896.47009"
+     inkscape:cy="632.51737"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4112,7 +4112,8 @@
        cx="344.6875"
        cy="1032.9247"
        rx="0.8125"
-       ry="1.3125" />
+       ry="1.3125"
+       inkscape:label="u8_3" />
     <g
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="text5056-9-6">
@@ -4172,7 +4173,8 @@
        cx="344.6875"
        cy="1032.9247"
        rx="0.8125"
-       ry="1.3125" />
+       ry="1.3125"
+       inkscape:label="u8_2" />
     <g
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="text5064-2-2">
@@ -4993,7 +4995,8 @@
        transform="matrix(0.3862069,0,0,0.3862069,5279.5618,1139.3515)"
        cx="277.23215"
        cy="1031.7372"
-       r="7.7678571" />
+       r="7.7678571"
+       inkscape:label="u8_1" />
     <circle
        style="fill:#da421e;fill-opacity:1;stroke:none"
        id="path4946-9-3-3-4"

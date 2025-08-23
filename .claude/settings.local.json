@@ -26,7 +26,12 @@
       "Bash(npx svgo:*)",
       "Bash(npm run svg:opt:*)",
       "Bash(npm run svg:brotli:*)",
-      "WebFetch(domain:commons.wikimedia.org)"
+      "WebFetch(domain:commons.wikimedia.org)",
+      "Bash(for img in *.jpg)",
+      "Bash(do echo \"Resizing $img...\")",
+      "Bash(magick:*)",
+      "Bash(done)",
+      "Bash(convert:*)"
     ],
     "deny": [],
     "ask": []

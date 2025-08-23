@@ -40,5 +40,23 @@
     "customDescription": "aller bester döner",
     "customImage": "images/bayrischer_platz_u4.jpg",
     "customStation": "Bayrischer Platz"
+  },
+  "u8_1": {
+    "customTooltip": "Döner für 6,50€",
+    "customDescription": "aller bester döner",
+    "customImage": "images/hermannstrasse_entrance_u8.jpg",
+    "customStation": "Hermannstraße"
+  },
+  "u8_2": {
+    "customTooltip": "Döner für 2,99€",
+    "customDescription": "aller bester döner",
+    "customImage": "images/leinestrasse_entrance_u8.jpg",
+    "customStation": "Leinestraße"
+  },
+  "u8_3": {
+    "customTooltip": "Döner für 5,99€",
+    "customDescription": "aller bester döner",
+    "customImage": "images/boddinstrasse_u8.jpg",
+    "customStation": "Boddinstraße"
   }
 }
