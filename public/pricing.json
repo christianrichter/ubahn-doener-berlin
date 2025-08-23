@@ -1,61 +1,61 @@
 {
   "u1_1": {
     "customTooltip": "Döner für 7,00€",
-    "customDescription": "Lecker & günstig",
+    "customDescription": "Perfekt nach dem Feiern in RAW",
     "customImage": "images/warschauer_strasse_u1.jpg",
     "customStation": "Warschauer Straße"
   },
   "u1_3": {
     "customTooltip": "Döner für 7,50€",
-    "customDescription": "Authentisch & frisch",
+    "customDescription": "Große Portionen nahe Görlitzer Park",
     "customImage": "images/goerlitzer_bahnhof_viaduct_u1.jpg",
     "customStation": "Görlitzer Bahnhof"
   },
   "u1_5": {
     "customTooltip": "Döner für 7,00€",
-    "customDescription": "Lecker & günstig",
+    "customDescription": "Gemischte Bewertungen direkt im Bahnhof",
     "customImage": "images/prinzenstrasse_u1.jpg",
     "customStation": "Prinzenstraße"
   },
   "u1_6": {
     "customTooltip": "Döner für 7,50€",
-    "customDescription": "aller bester döner hier in berlin",
+    "customDescription": "Nah an Mustafas Qualität dran",
     "customImage": "images/hallesches_tor_u1.jpg",
     "customStation": "Hallesches Tor"
   },
   "u1_7": {
     "customTooltip": "Döner für 7,00€",
-    "customDescription": "aller bester döner",
+    "customDescription": "Knuspriges Brot frischer Salat freundlich",
     "customImage": "images/moeckernbruecke_u1.jpg",
     "customStation": "Möckernbrücke"
   },
   "u1_9": {
     "customTooltip": "Döner für 7,00€",
-    "customDescription": "aller bester döner",
+    "customDescription": "Solide Option mit fairen Preisen",
     "customImage": "images/kurfuerstenstrasse_entrance_u1.jpg",
     "customStation": "Kurfürstenstraße"
   },
   "u4_3": {
     "customTooltip": "Döner für 6,50€",
-    "customDescription": "aller bester döner",
+    "customDescription": "Stammkunden loben die großen Portionen",
     "customImage": "images/bayrischer_platz_u4.jpg",
     "customStation": "Bayrischer Platz"
   },
   "u8_1": {
     "customTooltip": "Döner für 6,50€",
-    "customDescription": "aller bester döner",
+    "customDescription": "Gegrilltes Gemüse Alternative zu Mustafas",
     "customImage": "images/hermannstrasse_entrance_u8.jpg",
     "customStation": "Hermannstraße"
   },
   "u8_2": {
     "customTooltip": "Döner für 2,99€",
-    "customDescription": "aller bester döner",
+    "customDescription": "Ketten-Qualität konstant geschmackvoll günstig",
     "customImage": "images/leinestrasse_entrance_u8.jpg",
     "customStation": "Leinestraße"
   },
   "u8_3": {
     "customTooltip": "Döner für 5,99€",
-    "customDescription": "aller bester döner",
+    "customDescription": "Wenige Bewertungen aber bequeme Lage",
     "customImage": "images/boddinstrasse_u8.jpg",
     "customStation": "Boddinstraße"
   }
