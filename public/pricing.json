@@ -58,5 +58,35 @@
     "customDescription": "Wenige Bewertungen aber bequeme Lage",
     "customImage": "images/boddinstrasse_u8.jpg",
     "customStation": "Boddinstraße"
+  },
+  "u8_8": {
+    "customTooltip": "Döner für 7,00€",
+    "customDescription": "Gemischte Bewertungen bekannte Läden nahe",
+    "customImage": "images/heinrich_heine_strasse_entrance_u8.jpg",
+    "customStation": "Heinrich-Heine-Strasse"
+  },
+  "u8_9": {
+    "customTooltip": "Döner für 7,00€",
+    "customDescription": "Standard Berliner Döner-Szene Optionen",
+    "customImage": "images/janowitzbruecke_entrance_u8.jpg",
+    "customStation": "Janowitzbrücke"
+  },
+  "u8_10": {
+    "customTooltip": "Döner für 7,50€",
+    "customDescription": "Touristenfreundlich schneller Service zum Mitnehmen",
+    "customImage": "images/alexanderplatz_entrance_u8.jpg",
+    "customStation": "Alexanderplatz"
+  },
+  "u8_12": {
+    "customTooltip": "Döner für 6,50€",
+    "customDescription": "TOP5 Qualität traditioneller Laden seit 1992",
+    "customImage": "images/rosenthaler_platz_entrance_u8.jpg",
+    "customStation": "Rosenthaler Platz"
+  },
+  "u8_15": {
+    "customTooltip": "Döner für 7,00€",
+    "customDescription": "Authentische türkische Qualität mit gutem Preis",
+    "customImage": "images/gesundbrunnen_entrance_u8.jpg",
+    "customStation": "Gesundbrunnen"
   }
 }
